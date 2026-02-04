@@ -8,6 +8,7 @@ const cormorant = Cormorant_Garamond({
   weight: ["400", "600", "700"],
 });
 
+
 type ModalConfig = {
   index: number;
   mode: "normal" | "system";
