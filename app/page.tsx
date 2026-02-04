@@ -122,7 +122,7 @@ export default function Home() {
                   <p>18:00</p>
                 </div>
                 <div className="grid grid-cols-[120px_1fr] gap-3 text-2xl sm:text-3xl">
-                  <p className="text-white/70">Dress Code</p>
+                  <p className="text-white/70">Dress</p>
                   <p>Something pretty</p>
                 </div>
                 <div className="grid grid-cols-[120px_1fr] gap-3 text-2xl sm:text-3xl">
